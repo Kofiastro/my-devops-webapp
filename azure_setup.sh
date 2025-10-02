@@ -3,7 +3,7 @@
 # Set your variables
 RESOURCE_GROUP_NAME="rg-webapp-deploy"
 ACR_NAME="acrwebapp$(date +%s | tail -c 6)"  # Creates unique name like acrwebapp123456
-LOCATION="southafricanorth"
+LOCATION="eastus"
 SP_NAME="github-actions-webapp"
 
 echo "Setting up Azure resources..."

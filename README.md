@@ -1,6 +1,6 @@
 # My DevOps Web App with Automated Deployment
 
-A modern Node.js web application demonstrating DevOps best practices with automated testing, containerization, and CI/CD deployment to Azure using GitHub Actions.
+A modern Node.js web application demonstrating DevOps best practices with automated testing, containerization, and CI/CD deployment to Azure using GitHub Actions by astr0
 
 ## 🎯 What This Project Demonstrates
 
